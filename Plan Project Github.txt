@@ -1,0 +1,38 @@
+Planning untuk project github kedepannya :
+----------------------------------------------------------------------------------------------------------------------------------------
+My-Project --> Project Web-Developer :  
+                                         Riset   -->              
+                                         Project -->    
+                                                      Front-end              --> HTML
+                                                                             --> CSS
+                                                                             --> Java Script
+                                                      -----------------------------------------------
+                                                      Back-end               --> PHP
+                                                                             --> Mysql
+                                                      -----------------------------------------------
+                                                      Desain                 --> Photoshop
+                                                                             --> Figma
+                                                      -----------------------------------------------
+               Project Microcontroller :  
+                                         Riset   -->  
+                                         Project -->                        
+                                                      Desain Wiring Diagram  --> Eagle
+                                                                             --> Proteus
+                                                                             --> Easy EDA
+                                                                             --> Altium Designer
+                                                      -----------------------------------------------
+                                                      Program                --> Arduino IDE
+                                                                             --> VS Code  --> Python
+                                                                                          --> C
+                                                                                          --> C++
+                                                      -----------------------------------------------                           
+               Project Desain-3D :
+                                         Project -->  
+                                                      Solidwork
+                                                      -----------------------------------------------  
+               Project Desain-Grafis :
+                                         Project -->  
+                                                      Photoshop
+                                                      Adobe Ilustrator
+                                                      ----------------------------------------------- 
+
